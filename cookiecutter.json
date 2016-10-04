@@ -1,0 +1,10 @@
+{
+    "full_name": "Juan Perez",
+    "email": "juanmanuel.munozperez@gmail.com",
+    "version": "0.1.0",
+    "release": "2016/10/04",
+    "api_name": "irisrestfulapi",
+    "app_name": "Iris API",
+    "secret_key": "post_gen_change_secret_key",
+    "recaptcha_public_key": "post_gen_change_recaptcha_public_key"
+}
